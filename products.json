@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Dark Side of The Moon",
+    "description": "Pink Floyd",
+    "price": 9000,
+    "thumbnail": "ruta/dsotm.jpg",
+    "code": "A001",
+    "stock": 7,
+    "id": 1
+  },
+  {
+    "title": "Definitely Maybe",
+    "description": "Oasis",
+    "price": 10000,
+    "thumbnail": "ruta/dm.jpg",
+    "code": "A003",
+    "stock": 11,
+    "id": 3
+  },
+  {
+    "title": "Producto actualizado",
+    "description": "Oasis",
+    "price": 7500,
+    "thumbnail": "ruta/bhn.jpg",
+    "code": "A004",
+    "stock": 1,
+    "id": 4
+  },
+  {
+    "title": "AM",
+    "description": "Arctic Monkeys",
+    "price": 8000,
+    "thumbnail": "ruta/am.jpg",
+    "code": "A005",
+    "stock": 2,
+    "id": 5
+  },
+  {
+    "title": "Some Girls",
+    "description": "The Rolling Stones",
+    "price": 11000,
+    "thumbnail": "ruta/SG.jpg",
+    "code": "A006",
+    "stock": 2,
+    "id": 6
+  },
+  {
+    "title": "The Car",
+    "description": "Arctic Monkeys",
+    "price": 12000,
+    "thumbnail": "ruta/tcam.jpg",
+    "code": "A007",
+    "stock": 9,
+    "id": 7
+  },
+  {
+    "title": "Hot Fuss",
+    "description": "The Killers",
+    "price": 15000,
+    "thumbnail": "ruta/.jpg",
+    "code": "A008",
+    "stock": 8,
+    "id": 8
+  },
+  {
+    "title": "The New Abnormal",
+    "description": "The Strokes",
+    "price": 10000,
+    "thumbnail": "ruta/tna.jpg",
+    "code": "A009",
+    "stock": 6,
+    "id": 9
+  },
+  {
+    "title": "Abbey Road",
+    "description": "The Beatles",
+    "price": 9999,
+    "thumbnail": "ruta/artb.jpg",
+    "code": "A010",
+    "stock": 2,
+    "id": 10
+  }
+]
